@@ -1,8 +1,11 @@
 public class AccController {
     //first git change push
   //second git change
+<<<<<<< HEAD
   //third change
   //123
+=======
+>>>>>>> parent of c3a4c69 (2nd change)
 @AuraEnabled
     public static List<Account> getAccounts(){
         return [SELECT
